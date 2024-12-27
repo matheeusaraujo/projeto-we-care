@@ -3,6 +3,7 @@
 <p>Este projeto é uma landing page responsiva para um pet shop, criada como parte da minha jornada de aprendizado em desenvolvimento web.
 O layout original somente desktop foi escrito durante uma palestra, e o objetivo deste projeto foi adaptá-lo para um design que funcionasse tanto em telas mobile quanto desktop, aplicando os conceitos de design responsivo.</p>
 <br>
+:bulb:<a href="https://matheeusaraujo.github.io/projeto-we-care/"> Ver projeto </a></p>
 <h2>Screenshots :camera:</h2>
 <img src="https://github.com/matheeusaraujo/projeto-we-care/blob/master/img/responsivo.png?raw=true"/>
 <br>
